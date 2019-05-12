@@ -1,0 +1,33 @@
+.wrapper {
+  display: flex;
+}
+
+.wrapper .all-user-data {
+  flex-basis: 60%;
+  margin-right: 45px;
+}
+
+ul li {
+  list-style: none;
+  border-bottom: 1px solid #c5c5c5;
+}
+
+ul li a {
+  text-decoration: none;
+  color: #000;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  background-color: #f9f5f5;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.button nutton {
+  color: #fff;
+  background: crimson;
+  padding: 10px;
+  font-size: 16px;
+  text-transform: uppercase;
+}
